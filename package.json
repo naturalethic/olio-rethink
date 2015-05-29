@@ -1,0 +1,13 @@
+{
+  "name": "olio-rethink",
+  "version": "0.0.1",
+  "description": "olio rethink",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/naturalethic/olio-rethink"
+  },
+  "dependencies": {
+    "koa-rethinkdb-pool": "^1.1.0",
+    "rethinkdb": "^2.0.0-1"
+  }
+}
